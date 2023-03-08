@@ -39,7 +39,7 @@ function App() {
             onChange={(e) => setLists(e.target.value)}
           />
           <Button />
-          <div className="mt-[2rem] self-start">
+          <div className="self-start">
             {notes.map((note, index) => (
               <div key={index} className="flex items-center gap-2 text-xl">
                 <input
