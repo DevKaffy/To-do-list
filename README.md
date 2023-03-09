@@ -15,7 +15,7 @@ Todo list, adding notes to a form.
 ## Preview here
 [Go Live](https://checkedlist.netlify.app/)
 
-![screenshot](/public/Screenshot%20from%202023-03-08%2019-35-57.png)
+![screenshot](/public/Screenshot%20from%202023-03-09%2014-42-28.png)
 
 ## Contact
 If you want to contact me you can reach me at

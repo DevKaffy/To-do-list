@@ -30,12 +30,13 @@ function App() {
   return (
     <div className="bg-blue-100 h-screen">
       <div className="w-[50vh] mx-auto pt-[10rem] ">
-        <h2 className="font-bold text-4xl mb-4">Add Note</h2>
+        <h2 className="font-bold text-4xl mb-4">Add Todo</h2>
         <form onSubmit={handleSubmit} className="flex flex-col gap-4">
           <input
             className="px-8 py-4 rounded-[5px]"
             type="text"
             value={lists}
+            placeholder='text here...'
             onChange={(e) => setLists(e.target.value)}
           />
           <Button />
